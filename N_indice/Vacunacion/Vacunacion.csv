@@ -1,0 +1,265 @@
+CodDepartamento,CodCiudad,Departamento,Ciudad,Ano,Trimestre,PorcentajeVacunacion
+44,001,Guajira,Riohacha,2020,1,0
+54,001,Norte de Santander,Cucuta,2020,1,0
+27,001,Choco,Quibdo,2020,1,0
+73,001,Tolima,Ibague,2020,1,0
+41,001,Huila,Neiva,2020,1,0
+20,001,Cesar,Valledupar,2020,1,0
+11,001,Bogota D.C,Bogota D.C,2020,1,0
+15,001,Boyaca,Tunja,2020,1,0
+50,001,Meta,Villavicencio,2020,1,0
+19,001,Cauca,Popayan,2020,1,0
+17,001,Caldas,Manizales,2020,1,0
+76,001,Valle del Cauca,Cali,2020,1,0
+63,001,Quindio,Armenia,2020,1,0
+05,001,Antioquia,Medellin,2020,1,0
+23,001,Cordoba,Monteria,2020,1,0
+18,001,Caqueta,Florencia,2020,1,0
+47,001,Magdalena,Santa Marta,2020,1,0
+66,001,Risaralda,Pereira,2020,1,0
+70,001,Sucre,Sincelejo,2020,1,0
+52,001,Narino,Pasto,2020,1,0
+68,001,Santander,Bucaramanga,2020,1,0
+08,001,Atlantico,Barranquilla,2020,1,0
+13,001,Bolivar,Cartagena,2020,1,0
+88,001,Archipielago de San Andres,San Andres,2020,1,0
+44,001,Guajira,Riohacha,2020,2,0
+54,001,Norte de Santander,Cucuta,2020,2,0
+27,001,Choco,Quibdo,2020,2,0
+73,001,Tolima,Ibague,2020,2,0
+41,001,Huila,Neiva,2020,2,0
+20,001,Cesar,Valledupar,2020,2,0
+11,001,Bogota D.C,Bogota D.C,2020,2,0
+15,001,Boyaca,Tunja,2020,2,0
+50,001,Meta,Villavicencio,2020,2,0
+19,001,Cauca,Popayan,2020,2,0
+17,001,Caldas,Manizales,2020,2,0
+76,001,Valle del Cauca,Cali,2020,2,0
+63,001,Quindio,Armenia,2020,2,0
+05,001,Antioquia,Medellin,2020,2,0
+23,001,Cordoba,Monteria,2020,2,0
+18,001,Caqueta,Florencia,2020,2,0
+47,001,Magdalena,Santa Marta,2020,2,0
+66,001,Risaralda,Pereira,2020,2,0
+70,001,Sucre,Sincelejo,2020,2,0
+52,001,Narino,Pasto,2020,2,0
+68,001,Santander,Bucaramanga,2020,2,0
+08,001,Atlantico,Barranquilla,2020,2,0
+13,001,Bolivar,Cartagena,2020,2,0
+88,001,Archipielago de San Andres,San Andres,2020,2,0
+44,001,Guajira,Riohacha,2020,3,0
+54,001,Norte de Santander,Cucuta,2020,3,0
+27,001,Choco,Quibdo,2020,3,0
+73,001,Tolima,Ibague,2020,3,0
+41,001,Huila,Neiva,2020,3,0
+20,001,Cesar,Valledupar,2020,3,0
+11,001,Bogota D.C,Bogota D.C,2020,3,0
+15,001,Boyaca,Tunja,2020,3,0
+50,001,Meta,Villavicencio,2020,3,0
+19,001,Cauca,Popayan,2020,3,0
+17,001,Caldas,Manizales,2020,3,0
+76,001,Valle del Cauca,Cali,2020,3,0
+63,001,Quindio,Armenia,2020,3,0
+05,001,Antioquia,Medellin,2020,3,0
+23,001,Cordoba,Monteria,2020,3,0
+18,001,Caqueta,Florencia,2020,3,0
+47,001,Magdalena,Santa Marta,2020,3,0
+66,001,Risaralda,Pereira,2020,3,0
+70,001,Sucre,Sincelejo,2020,3,0
+52,001,Narino,Pasto,2020,3,0
+68,001,Santander,Bucaramanga,2020,3,0
+08,001,Atlantico,Barranquilla,2020,3,0
+13,001,Bolivar,Cartagena,2020,3,0
+88,001,Archipielago de San Andres,San Andres,2020,3,0
+44,001,Guajira,Riohacha,2020,4,0
+54,001,Norte de Santander,Cucuta,2020,4,0
+27,001,Choco,Quibdo,2020,4,0
+73,001,Tolima,Ibague,2020,4,0
+41,001,Huila,Neiva,2020,4,0
+20,001,Cesar,Valledupar,2020,4,0
+11,001,Bogota D.C,Bogota D.C,2020,4,0
+15,001,Boyaca,Tunja,2020,4,0
+50,001,Meta,Villavicencio,2020,4,0
+19,001,Cauca,Popayan,2020,4,0
+17,001,Caldas,Manizales,2020,4,0
+76,001,Valle del Cauca,Cali,2020,4,0
+63,001,Quindio,Armenia,2020,4,0
+05,001,Antioquia,Medellin,2020,4,0
+23,001,Cordoba,Monteria,2020,4,0
+18,001,Caqueta,Florencia,2020,4,0
+47,001,Magdalena,Santa Marta,2020,4,0
+66,001,Risaralda,Pereira,2020,4,0
+70,001,Sucre,Sincelejo,2020,4,0
+52,001,Narino,Pasto,2020,4,0
+68,001,Santander,Bucaramanga,2020,4,0
+08,001,Atlantico,Barranquilla,2020,4,0
+13,001,Bolivar,Cartagena,2020,4,0
+88,001,Archipielago de San Andres,San Andres,2020,4,0
+44,001,Guajira,Riohacha,2021,1,0.49
+54,001,Norte de Santander,Cucuta,2021,1,0.68
+27,001,Choco,Quibdo,2021,1,0.60
+73,001,Tolima,Ibague,2021,1,0.82
+41,001,Huila,Neiva,2021,1,0.92
+20,001,Cesar,Valledupar,2021,1,0.61
+11,001,Bogota D.C,Bogota D.C,2021,1,0.97
+15,001,Boyaca,Tunja,2021,1,1.49
+50,001,Meta,Villavicencio,2021,1,0.56
+19,001,Cauca,Popayan,2021,1,0.92
+17,001,Caldas,Manizales,2021,1,0.74
+76,001,Valle del Cauca,Cali,2021,1,0.93
+63,001,Quindio,Armenia,2021,1,0.77
+05,001,Antioquia,Medellin,2021,1,0.66
+23,001,Cordoba,Monteria,2021,1,0.76
+18,001,Caqueta,Florencia,2021,1,0.62
+47,001,Magdalena,Santa Marta,2021,1,0.58
+66,001,Risaralda,Pereira,2021,1,0.76
+70,001,Sucre,Sincelejo,2021,1,0.67
+52,001,Narino,Pasto,2021,1,1.31
+68,001,Santander,Bucaramanga,2021,1,0.88
+08,001,Atlantico,Barranquilla,2021,1,0.84
+13,001,Bolivar,Cartagena,2021,1,0.60
+88,001,Archipielago de San Andres,San Andres,2021,1,0.51
+44,001,Guajira,Riohacha,2021,2,7.40
+54,001,Norte de Santander,Cucuta,2021,2,14.30
+27,001,Choco,Quibdo,2021,2,12.69
+73,001,Tolima,Ibague,2021,2,17.70
+41,001,Huila,Neiva,2021,2,15.53
+20,001,Cesar,Valledupar,2021,2,12.01
+11,001,Bogota D.C,Bogota D.C,2021,2,16.96
+15,001,Boyaca,Tunja,2021,2,20.97
+50,001,Meta,Villavicencio,2021,2,12.20
+19,001,Cauca,Popayan,2021,2,18.05
+17,001,Caldas,Manizales,2021,2,18.58
+76,001,Valle del Cauca,Cali,2021,2,15.72
+63,001,Quindio,Armenia,2021,2,20.21
+05,001,Antioquia,Medellin,2021,2,19.35
+23,001,Cordoba,Monteria,2021,2,12.24
+18,001,Caqueta,Florencia,2021,2,11.01
+47,001,Magdalena,Santa Marta,2021,2,11.49
+66,001,Risaralda,Pereira,2021,2,19.97
+70,001,Sucre,Sincelejo,2021,2,13.11
+52,001,Narino,Pasto,2021,2,20.15
+68,001,Santander,Bucaramanga,2021,2,19.99
+08,001,Atlantico,Barranquilla,2021,2,15.63
+13,001,Bolivar,Cartagena,2021,2,13.48
+88,001,Archipielago de San Andres,San Andres,2021,2,13.53
+44,001,Guajira,Riohacha,2021,3,26.11
+54,001,Norte de Santander,Cucuta,2021,3,30.79
+27,001,Choco,Quibdo,2021,3,32.37
+73,001,Tolima,Ibague,2021,3,36.60
+41,001,Huila,Neiva,2021,3,32.85
+20,001,Cesar,Valledupar,2021,3,26.07
+11,001,Bogota D.C,Bogota D.C,2021,3,41.62
+15,001,Boyaca,Tunja,2021,3,43.36
+50,001,Meta,Villavicencio,2021,3,28.48
+19,001,Cauca,Popayan,2021,3,39.46
+17,001,Caldas,Manizales,2021,3,37.23
+76,001,Valle del Cauca,Cali,2021,3,33.06
+63,001,Quindio,Armenia,2021,3,40.41
+05,001,Antioquia,Medellin,2021,3,43.25
+23,001,Cordoba,Monteria,2021,3,28.46
+18,001,Caqueta,Florencia,2021,3,27.45
+47,001,Magdalena,Santa Marta,2021,3,25.63
+66,001,Risaralda,Pereira,2021,3,40.42
+70,001,Sucre,Sincelejo,2021,3,26.66
+52,001,Narino,Pasto,2021,3,38.92
+68,001,Santander,Bucaramanga,2021,3,39.0
+08,001,Atlantico,Barranquilla,2021,3,35.23
+13,001,Bolivar,Cartagena,2021,3,29.47
+88,001,Archipielago de San Andres,San Andres,2021,3,56.77
+44,001,Guajira,Riohacha,2021,4,36.89
+54,001,Norte de Santander,Cucuta,2021,4,48.92
+27,001,Choco,Quibdo,2021,4,47.01
+73,001,Tolima,Ibague,2021,4,55.47
+41,001,Huila,Neiva,2021,4,53.70
+20,001,Cesar,Valledupar,2021,4,42.86
+11,001,Bogota D.C,Bogota D.C,2021,4,63.44
+15,001,Boyaca,Tunja,2021,4,66.04
+50,001,Meta,Villavicencio,2021,4,44.34
+19,001,Cauca,Popayan,2021,4,59.48
+17,001,Caldas,Manizales,2021,4,56.03
+76,001,Valle del Cauca,Cali,2021,4,48.04
+63,001,Quindio,Armenia,2021,4,57.45
+05,001,Antioquia,Medellin,2021,4,62.16
+23,001,Cordoba,Monteria,2021,4,43.55
+18,001,Caqueta,Florencia,2021,4,43.22
+47,001,Magdalena,Santa Marta,2021,4,41.42
+66,001,Risaralda,Pereira,2021,4,63.96
+70,001,Sucre,Sincelejo,2021,4,39.32
+52,001,Narino,Pasto,2021,4,60.12
+68,001,Santander,Bucaramanga,2021,4,60.93
+08,001,Atlantico,Barranquilla,2021,4,57.50
+13,001,Bolivar,Cartagena,2021,4,45.20
+88,001,Archipielago de San Andres,San Andres,2021,4,67.23
+44,001,Guajira,Riohacha,2022,1,45.19
+54,001,Norte de Santander,Cucuta,2022,1,61.69
+27,001,Choco,Quibdo,2022,1,54.67
+73,001,Tolima,Ibague,2022,1,67.11
+41,001,Huila,Neiva,2022,1,65.65
+20,001,Cesar,Valledupar,2022,1,54.79
+11,001,Bogota D.C,Bogota D.C,2022,1,77.34
+15,001,Boyaca,Tunja,2022,1,77.73
+50,001,Meta,Villavicencio,2022,1,53.95
+19,001,Cauca,Popayan,2022,1,67.62
+17,001,Caldas,Manizales,2022,1,64.13
+76,001,Valle del Cauca,Cali,2022,1,55.97
+63,001,Quindio,Armenia,2022,1,65.92
+05,001,Antioquia,Medellin,2022,1,69.65
+23,001,Cordoba,Monteria,2022,1,55.01
+18,001,Caqueta,Florencia,2022,1,51.67
+47,001,Magdalena,Santa Marta,2022,1,50.57
+66,001,Risaralda,Pereira,2022,1,74.70
+70,001,Sucre,Sincelejo,2022,1,46.40
+52,001,Narino,Pasto,2022,1,71.58
+68,001,Santander,Bucaramanga,2022,1,72.50
+08,001,Atlantico,Barranquilla,2022,1,69.17
+13,001,Bolivar,Cartagena,2022,1,56.66
+88,001,Archipielago de San Andres,San Andres,2022,1,74.66
+44,001,Guajira,Riohacha,2022,2,48.38
+54,001,Norte de Santander,Cucuta,2022,2,64.43
+27,001,Choco,Quibdo,2022,2,55.91
+73,001,Tolima,Ibague,2022,2,69.40
+41,001,Huila,Neiva,2022,2,69.03
+20,001,Cesar,Valledupar,2022,2,56.96
+11,001,Bogota D.C,Bogota D.C,2022,2,79.32
+15,001,Boyaca,Tunja,2022,2,79.44
+50,001,Meta,Villavicencio,2022,2,56.53
+19,001,Cauca,Popayan,2022,2,69.72
+17,001,Caldas,Manizales,2022,2,66.20
+76,001,Valle del Cauca,Cali,2022,2,58.19
+63,001,Quindio,Armenia,2022,2,69.19
+05,001,Antioquia,Medellin,2022,2,71.99
+23,001,Cordoba,Monteria,2022,2,57.22
+18,001,Caqueta,Florencia,2022,2,54.36
+47,001,Magdalena,Santa Marta,2022,2,52.27
+66,001,Risaralda,Pereira,2022,2,76.75
+70,001,Sucre,Sincelejo,2022,2,48.88
+52,001,Narino,Pasto,2022,2,73.71
+68,001,Santander,Bucaramanga,2022,2,74.91
+08,001,Atlantico,Barranquilla,2022,2,71.30
+13,001,Bolivar,Cartagena,2022,2,59.60
+88,001,Archipielago de San Andres,San Andres,2022,2,77.05
+44,001,Guajira,Riohacha,2022,3,49.15
+54,001,Norte de Santander,Cucuta,2022,3,65.20
+27,001,Choco,Quibdo,2022,3,56.51
+73,001,Tolima,Ibague,2022,3,70.07
+41,001,Huila,Neiva,2022,3,69.98
+20,001,Cesar,Valledupar,2022,3,57.73
+11,001,Bogota D.C,Bogota D.C,2022,3,79.85
+15,001,Boyaca,Tunja,2022,3,79.99
+50,001,Meta,Villavicencio,2022,3,57.42
+19,001,Cauca,Popayan,2022,3,70.58
+17,001,Caldas,Manizales,2022,3,66.73
+76,001,Valle del Cauca,Cali,2022,3,58.96
+63,001,Quindio,Armenia,2022,3,70.16
+05,001,Antioquia,Medellin,2022,3,72.37
+23,001,Cordoba,Monteria,2022,3,58.05
+18,001,Caqueta,Florencia,2022,3,55.99
+47,001,Magdalena,Santa Marta,2022,3,53.01
+66,001,Risaralda,Pereira,2022,3,77.47
+70,001,Sucre,Sincelejo,2022,3,49.72
+52,001,Narino,Pasto,2022,3,74.37
+68,001,Santander,Bucaramanga,2022,3,75.73
+08,001,Atlantico,Barranquilla,2022,3,72.08
+13,001,Bolivar,Cartagena,2022,3,61.01
+88,001,Archipielago de San Andres,San Andres,2022,3,78.06
