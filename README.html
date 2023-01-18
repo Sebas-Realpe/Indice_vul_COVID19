@@ -3,30 +3,37 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <title>Seguridad Alimentaria Readme</title>
+  <title>Vulnerabilidad a la COVID-19 Readme</title>
 </head>
 
 <body>
 
-  <h1> SeguridadAlimentaria </h1>
-  <p>Este repositorio contiene diferentes datos abiertos de diferentes fuentes para calcular hacer un análisis de la
-    seguridad alimentaria en el departamento
-    del Cauca, está dividio en diferentes carpetas
+  <h1> Vulnerabilidad a la COVID-19 </h1>
+  <p>Este repositorio contiene los enlaces donde se logró acceder a los 
+    datos abiertos implementados para este proyecto, así como la guía de 
+    cómo estan divididas las carpetas y archivos.
   </p>
+ 
   <ol>
-    <li> Censo Nacional Agropecuario/: Aquí hay principalmente 1 Archivo y una carpeta: </li>
+    <h2>Recolección de datos (Modelo Inicial)</h2>
+    <li> <a
+      href="http://microdatos.dane.gov.co/index.php/catalog/643/data_dictionary#page=F9&tab=data-dictionary"> 
+      Censo Nacional de Población y Vivienda 2018</a>: </li>
     <ul>
-      <li> Datos/ </li>
-      <ul>
-        <li> *.csv: </li> 11 archivos en formato csv que contiene la información recaudada por por el <a
-          href="http://microdatos.dane.gov.co/index.php/catalog/513/get_microdata"> censo nacional agropecuario del año
-          2014</a>
-        <li>TEMATICA_DISENO DE REGISTRO CNA2014.xlsx </li> Diccionario que explica el significado de los campos en las
-        tablas del censo nacional agropecuario
-      </ul>
-      <li> CensoAgro.ipynb: </li> Archivo de Jupyter en el cual se leen los csv del censo nacional agropecuario y se
-      filtran los datos necesarios para el cálculo de la seguridad alimentaria
+      Los datos fueron recolectados por el DANE y tienen información sociodemográfica dividida en 5 datasets 
+      de los cuales, a partir de las variables seleccionadas se consideraron 4 que proveían información 
+      relevante; los datasets usados fueron: vivienda, hogares, fallecidos y personas 
+     
     </ul>
+    <li> <a
+      href="https://geoportal.dane.gov.co/visor-vulnerabilidad/"> 
+      Indice de vulnerabilidad del DANE</a>: </li> 
+      <ul>
+        Los datos de vulnerabilidad fueron recolectados del geo-portal de vulnerabilidad realizado por el DANE
+         el cual permite descargar los archivos en formato Shapefile. Este es un formato que permite almacenar 
+         la información geométrica y la información de atributos de las entidades geográficas. Estos datos son 
+         estáticos y se encuentran para la mayoría de municipios en Colombia.
+      </ul>
     <li> Datos Sociodemograficos/ :</li>
     <ul>
       <li> DANE_Sociodemograficos.csv: </li> Archivo que contiene los datos sociodemograficos de los diferentes
