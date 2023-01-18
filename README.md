@@ -1,1 +1,0 @@
-# Indice_vul_COVID19
