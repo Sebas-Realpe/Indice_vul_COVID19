@@ -6,18 +6,19 @@
  
   <ol>
     <h2>Recolección de datos (Modelo Inicial)</h2>
+    <ul>
     <li> <a
       href="http://microdatos.dane.gov.co/index.php/catalog/643/data_dictionary#page=F9&tab=data-dictionary"> 
       Censo Nacional de Población y Vivienda 2018</a>: </li>
-    <ul>
+    
       Los datos fueron recolectados por el DANE y tienen información sociodemográfica dividida en 5 datasets 
       de los cuales, a partir de las variables seleccionadas se consideraron 4 que proveían información 
-      relevante; los datasets usados fueron: vivienda, hogares, fallecidos y personas.
-    </ul>
+      relevante; los datasets usados fueron: vivienda, hogares, fallecidos y personas 
+    
     <li> <a
       href="https://geoportal.dane.gov.co/visor-vulnerabilidad/"> 
       Indice de vulnerabilidad del DANE</a>: </li> 
-    <ul>
+    
       Los datos de vulnerabilidad fueron recolectados del geo-portal de vulnerabilidad realizado por el DANE
       el cual permite descargar los archivos en formato Shapefile. Este es un formato que permite almacenar 
       la información geométrica y la información de atributos de las entidades geográficas. Estos datos son 
@@ -83,4 +84,66 @@
           Evaluacion_Modelo_Inicial_Clasificacion.ipynb</a>: </li>
           Este archivo utiliza el csv creado por Dataset_Inicial_Final.ipynb para analizar los datos 
           y realizar una evaluación aplicando diferente algorítmos de Machine Learning (ML).
+      </ul>
+    </ul>
+
+    <h2>Recolección de datos (Modelo Propuesto)</h2>
+    <ul>
+      <li> <a
+        href="https://www.banrep.gov.co/es/glosario/producto-interno-bruto-pib"> 
+        Producto Interno Bruto (PIB)</a>: </li>
+      
+        Estos datos dan una visibilidad más amplia de lo que aporta cada uno de los municipios 
+        principales al país cada año. Considerando el periodo de tiempo relevante de la pandemia 
+        de Covid-19, se tuvo en cuenta los datos de los años 2019 y 2020. Los datos del 2021 aún 
+        no han sido publicados. Para el presente trabajo se utilizó el PIB a precios constantes, 
+        buscando una periodicidad trimestral.
+      
+      <li> <a
+        href=""> 
+        Datos Climatológicos</a>: </li> 
+      
+        Google Earth Engine es un sitio web que tiene información de diversas variables, como 
+        temperatura, o precipitación a través del mundo, según el satélite que se escoja.
+      
+      <li> <a
+        href=""> 
+        información de vacunación</a>: </li> 
+      
+        El Ministerio de Salud, presentó un informe realizado por parte de Power BI, 
+        en el cual se puede visualizar la curva de porcentaje de vacunación para cada uno de 
+        los municipios de Colombia con una periodicidad mensual. 
+      
+      <li> <a
+        href="https://www.dane.gov.co/index.php/estadisticas-por-tema/mercado-laboral/empleo-y-desempleo"> 
+        Datos de desempleo</a>: </li> 
+      
+        Estos datos fueron recolectados a partir de la información que es publicada 
+        por la Gran Encuesta Integrada de Hogares (GEIH) realizada por el DANE, la 
+        cual brinda información relacionada con mercado laboral, ingresos y pobreza 
+        monetaria, y de las características sociodemográficas de la población residente 
+        en Colombia. 
+
+      <li> <a
+        href="https://www.google.com/covid19/mobility?hl=en"> 
+        Datos de movilidad</a>: </li> 
+      
+        Los datos de movilidad fueron recolectados a partir de los informes de movilidad 
+        comunitaria publicados por google. Estos informes permiten trazar la tendencia de 
+        movimiento a lo largo del tiempo en diversas categorías de lugares como: tiendas, 
+        parques, lugar de trabajo, etc, tomando como referencia la movilidad de las 5 
+        semanas comprendidas entre el 3 de enero y el 6 de febrero de 2020, es decir que 
+        a partir de los datos de movilidad de esos días es que se calculan los porcentajes 
+        de incremento o decremento de movilidad en un área en específico.
+      
+      <li> <a
+        href="https://geoportal.dane.gov.co/visor-vulnerabilidad/"> 
+        Índice de vuulnerabilidad del DANE</a>: </li> 
+      
+        L
+      <li> <a
+        href="https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr"> 
+        Datos de COVID-19</a>: </li> 
+      
+        L
       </ul>
