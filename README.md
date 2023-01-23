@@ -142,10 +142,10 @@
       Multidimensional Index</a>: </li>
       En esta carpeta se encuentra el diccionario de datos para cada uno de los datasets que se obtuvieron 
       como resultado de los datasets publicados por el DANE. Esta carpeta se divide en dos partes, la primera 
-      contiene todo lo relacionado al <li> <a
+      contiene todo lo relacionado al <a
         href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento"> 
-        preprocesamiento</a></li> y la segunda a la <li> <a
+        preprocesamiento</a> y la segunda a la <a
           href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Evaluacion"> 
-          evaluación</a></li>.
+          evaluación</a>.
       <ul>
       </ul>
