@@ -1,0 +1,73 @@
+CodCiudad,Departamento,CodDepMun,Ciudad,Ano,Area,Total
+63,Quindio,63001,Armenia,2019,Total,300194
+63,Quindio,63001,Armenia,2020,Total,304764
+63,Quindio,63001,Armenia,2021,Total,308463
+8,Atlántico,8001,Barranquilla,2019,Total,1243056
+8,Atlántico,8001,Barranquilla,2020,Total,1274250
+8,Atlántico,8001,Barranquilla,2021,Total,1297082
+11,Bogotá D.C.,11001,Bogota,2019,Total,7592871
+11,Bogotá D.C.,11001,Bogota,2020,Total,7743955
+11,Bogotá D.C.,11001,Bogota,2021,Total,7834167
+68,Santander,68001,Bucaramanga,2019,Total,595635
+68,Santander,68001,Bucaramanga,2020,Total,607428
+68,Santander,68001,Bucaramanga,2021,Total,614269
+76,Valle del Cauca,76001,Cali,2019,Total,2241491
+76,Valle del Cauca,76001,Cali,2020,Total,2252616
+76,Valle del Cauca,76001,Cali,2021,Total,2264748
+13,Bolívar,13001,Cartagena,2019,Total,1003685
+13,Bolívar,13001,Cartagena,2020,Total,1028736
+13,Bolívar,13001,Cartagena,2021,Total,1043926
+54,Norte de Santander,54001,Cucuta,2019,Total,749197
+54,Norte de Santander,54001,Cucuta,2020,Total,777106
+54,Norte de Santander,54001,Cucuta,2021,Total,787891
+18,Caquetá,18001,Florencia,2019,Total,170764
+18,Caquetá,18001,Florencia,2020,Total,173011
+18,Caquetá,18001,Florencia,2021,Total,174839
+73,Tolima,73001,Ibague,2019,Total,536087
+73,Tolima,73001,Ibague,2020,Total,541101
+73,Tolima,73001,Ibague,2021,Total,542724
+17,Caldas,17001,Manizales,2019,Total,440608
+17,Caldas,17001,Manizales,2020,Total,446160
+17,Caldas,17001,Manizales,2021,Total,450074
+5,Antioquia,5001,Medellin,2019,Total,2483545
+5,Antioquia,5001,Medellin,2020,Total,2533424
+5,Antioquia,5001,Medellin,2021,Total,2573220
+23,Córdoba,23001,Monteria,2019,Total,498858
+23,Córdoba,23001,Monteria,2020,Total,505334
+23,Córdoba,23001,Monteria,2021,Total,509558
+41,Huila,41001,Neiva,2019,Total,361049
+41,Huila,41001,Neiva,2020,Total,364408
+41,Huila,41001,Neiva,2021,Total,367400
+52,Nariño,52001,Pasto,2019,Total,392748
+52,Nariño,52001,Pasto,2020,Total,392589
+52,Nariño,52001,Pasto,2021,Total,392567
+66,Risaralda,66001,Pereira,2019,Total,472406
+66,Risaralda,66001,Pereira,2020,Total,477027
+66,Risaralda,66001,Pereira,2021,Total,480803
+19,Cauca,19001,Popayan,2019,Total,321991
+19,Cauca,19001,Popayan,2020,Total,325477
+19,Cauca,19001,Popayan,2021,Total,328139
+27,Chocó,27001,Quibdo,2019,Total,130042
+27,Chocó,27001,Quibdo,2020,Total,130825
+27,Chocó,27001,Quibdo,2021,Total,131886
+44,La Guajira,44001,Riohacha,2019,Total,195747
+44,La Guajira,44001,Riohacha,2020,Total,201839
+44,La Guajira,44001,Riohacha,2021,Total,206435
+88,Archipiélago de San Andrés,88001,Sanandres,2019,Total,56358
+88,Archipiélago de San Andrés,88001,Sanandres,2020,Total,57433
+88,Archipiélago de San Andrés,88001,Sanandres,2021,Total,58316
+47,Magdalena,47001,Santamarta,2019,Total,521239
+47,Magdalena,47001,Santamarta,2020,Total,538612
+47,Magdalena,47001,Santamarta,2021,Total,546979
+70,Sucre,70001,Sincelejo,2019,Total,286635
+70,Sucre,70001,Sincelejo,2020,Total,293951
+70,Sucre,70001,Sincelejo,2021,Total,298062
+15,Boyacá,15001,Tunja,2019,Total,176347
+15,Boyacá,15001,Tunja,2020,Total,179263
+15,Boyacá,15001,Tunja,2021,Total,180568
+20,Cesar,20001,Valledupar,2019,Total,513685
+20,Cesar,20001,Valledupar,2020,Total,532956
+20,Cesar,20001,Valledupar,2021,Total,544134
+50,Meta,50001,Villavicencio,2019,Total,538824
+50,Meta,50001,Villavicencio,2020,Total,545302
+50,Meta,50001,Villavicencio,2021,Total,549922
