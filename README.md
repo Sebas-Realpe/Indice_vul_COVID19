@@ -124,10 +124,28 @@
         de incremento o decremento de movilidad en un área en específico.
       <li> <a
         href="https://geoportal.dane.gov.co/visor-vulnerabilidad/"> 
-        Índice de vuulnerabilidad del DANE</a>: </li> 
-        L
+        Índice de vulnerabilidad del DANE</a>: </li> 
+        Este repositorio contiene los enlaces donde se logró acceder a los 
+      datos abiertos implementados para este proyecto, así como la guía de 
+      cómo estan divididas las carpetas y archivos.
       <li> <a
         href="https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr"> 
         Datos de COVID-19</a>: </li> 
-        L
+        Los datos de COVID-19 se obtuvieron a partir de la información publicada por el 
+        Ministerio de Salud, en la cual se pueden encontrar los datos diarios reportados 
+        en cada uno de los municipios de Colombia.
+      </ul>
+      <h2>Distribución de los archivos (Modelo Propuesto)</h2>
+    <ul>
+    <li> <a
+      href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index"> 
+      Multidimensional Index</a>: </li>
+      En esta carpeta se encuentra el diccionario de datos para cada uno de los datasets que se obtuvieron 
+      como resultado de los datasets publicados por el DANE. Esta carpeta se divide en dos partes, la primera 
+      contiene todo lo relacionado al <li> <a
+        href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento"> 
+        preprocesamiento</a></li> y la segunda a la <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Evaluacion"> 
+          evaluación</a></li>.
+      <ul>
       </ul>
