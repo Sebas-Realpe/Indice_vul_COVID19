@@ -226,7 +226,7 @@
           href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/Dataset_Final"> 
           Dataset_Final</a>. Además, este dataset fue cargado a <a
           href="https://www.kaggle.com/datasets/sebastianrgonzalez/covid19-colombia"> 
-          Kaggle</a>
+          Kaggle</a>.
       </ul>
       <h3>Evaluación</h3>
       <ul>
