@@ -207,7 +207,7 @@
           CSV el cual contiene la información de todos los municipio que se requieren, este archivo se almacena
           en <a
           href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/PRE_PRO"> 
-          PRE-PRO</a>
+          PRE_PRO</a>
         <li> <a
           href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Preprocesamiento/Union_Temp.ipynb"> 
           Union_Temp.ipynb</a>: </li>
@@ -215,7 +215,7 @@
           CSV el cual contiene la información de todos los municipio que se requieren, este archivo se almacena
           en <a
           href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/TEMP_PRO"> 
-          TEMP-PRO</a>
+          TEMP_PRO</a>
         <li> <a
           href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Preprocesamiento/Union_datasets_nuevo.ipynb"> 
           Union_datasets_nuevo.ipynb</a>: </li>
@@ -224,7 +224,9 @@
           agrupan trimestralmente y finalmente se agrega el índice de vulnerabilidad del DANE. este archivo 
           se almacena en la carpeta<a
           href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/Dataset_Final"> 
-          Dataset_Final</a>
+          Dataset_Final</a>. Además, este dataset fue cargado a <a
+          href="https://www.kaggle.com/datasets/sebastianrgonzalez/covid19-colombia"> 
+          Kaggle</a>
       </ul>
       <h3>Evaluación</h3>
       <ul>
@@ -235,8 +237,7 @@
         <li> <a
           href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Evaluacion/Evaluacion_Algoritmos.ipynb"> 
           Evaluacion_Algoritmos.ipynb</a>: </li>
-          Este archivo hace uso del CSV obtenido por Union_datasets_nuevo.ipynb y evalúa los algoritmos
-          implementados. Posteriormente, se realiza una evaluación con los mismos algoritmos a la 
+          Este archivo hace uso del CSV obtenido por Union_datasets_nuevo.ipynb y evalúa los algoritmos implementados. Posteriormente, se realiza una evaluación con los mismos algoritmos a la 
           columna del DANE. 
         <li> <a
           href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Evaluacion/Decision_Tree_Regressor.ipynb"> 
