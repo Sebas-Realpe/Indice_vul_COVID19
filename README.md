@@ -149,4 +149,125 @@
       evaluación</a>.
       <ul>
       <h3>Preprocesamiento</h3>
+      <ul>
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Preprocesamiento/Mobility.ipynb"> 
+          Mobility.ipynb</a>: </li>
+          Este archivo hace uso del CSV obtenido de la url mencionada anteriormente, filtra los municipios 
+          necesarios y genera un resultado trimestral para cada municipio. El archivo se exporta en la 
+          carpeta <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/MOB_PRO"> 
+          MOB_PRO</a>
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Preprocesamiento/Temperatura.ipynb"> 
+          Temperatura.ipynb</a>: </li>
+          Este archivo hace uso del CSV obtenido de la url mencionada anteriormente, y genera un resultado 
+          trimestral para cada municipio. Los archivos se exportan en la carpeta <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/TEMP_PRO"> 
+          TEMP_PRO</a>
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Preprocesamiento/Precipitacion.ipynb"> 
+          Precipitacion.ipynb</a>: </li>
+          Este archivo hace uso del CSV obtenido de la url mencionada anteriormente, y genera un resultado 
+          trimestral para cada municipio. Los archivos se exportan en la carpeta <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/PRE_PRO"> 
+          PRE_PRO</a>
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Preprocesamiento/Casos_Covid.ipynb"> 
+          Casos_COVID.ipynb</a>: </li>
+          Este archivo hace uso del CSV obtenido de la url mencionada anteriormente, filtra los municipios 
+          necesarios y genera un resultado trimestral para cada municipio. Exporta un archivo por municipio
+          y se almacena en la carpeta <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/Casos_Covid"> 
+          Casos_Covid</a>
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Preprocesamiento/Estimacion_Poblacion.ipynb"> 
+          Estimacion_Poblacion.ipynb</a>: </li>
+          Este archivo hace uso del CSV obtenido de la url mencionada anteriormente, y genera un resultado 
+          trimestral para cada municipio. El archivo se exporta en la carpeta <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/Casos_Covid/Poblacion"> 
+          Casos_Covid/Poblacion</a>
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Preprocesamiento/Union_casos.ipynb"> 
+          Union_casos.ipynb</a>: </li>
+          Este archivo hace uso de los CSV creados por Casos_Covid.ipynb y los une, generando un único archivo
+          CSV el cual contiene la información de todos los municipio que se requieren, este archivo se almacena
+          en <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/Casos_Covid"> 
+          Casos_Covid</a>
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Preprocesamiento/Incidencia.ipynb"> 
+          Incidencia.ipynb</a>: </li>
+          Este archivo hace uso del CSV creado por Union_casos.ipynb y Estimacion_poblacion.ipynb y calcula 
+          la incidencia trimestral para cada municipio. Se exporta un archivo resultante en formato CSV.
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Preprocesamiento/Union_Prec.ipynb"> 
+          Union_Prec.ipynb</a>: </li>
+          Este archivo hace uso de los CSV creados por Precipitacion.ipynb y los une, generando un único archivo
+          CSV el cual contiene la información de todos los municipio que se requieren, este archivo se almacena
+          en <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/PRE_PRO"> 
+          PRE-PRO</a>
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Preprocesamiento/Union_Temp.ipynb"> 
+          Union_Temp.ipynb</a>: </li>
+          Este archivo hace uso de los CSV creados por Temperatura.ipynb y los une, generando un único archivo
+          CSV el cual contiene la información de todos los municipio que se requieren, este archivo se almacena
+          en <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/TEMP_PRO"> 
+          TEMP-PRO</a>
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Preprocesamiento/Union_datasets_nuevo.ipynb"> 
+          Union_datasets_nuevo.ipynb</a>: </li>
+          Este archivo hace uso de los CSV creados por Union_Temp.ipynb, Union_Prec.ipynb, Mobility.ipynb, 
+          Incidencia.ipynb y los archivos obtenidos para desempleo, PIB, vacunación los cuales también se 
+          agrupan trimestralmente y finalmente se agrega el índice de vulnerabilidad del DANE. este archivo 
+          se almacena en la carpeta<a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/tree/main/Multidimensional%20Index/Preprocesamiento/Dataset_Final"> 
+          Dataset_Final</a>
+      </ul>
+      <h3>Evaluación</h3>
+      <ul>
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Evaluacion/Dataset_Propuesto.ipynb"> 
+          Dataset_Propuesto.ipynb</a>: </li>
+          Este archivo hace uso del CSV obtenido por Union_datasets_nuevo.ipynb y analiza los datos. 
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Evaluacion/Evaluacion_Algoritmos.ipynb"> 
+          Evaluacion_Algoritmos.ipynb</a>: </li>
+          Este archivo hace uso del CSV obtenido por Union_datasets_nuevo.ipynb y evalúa los algoritmos
+          implementados. Posteriormente, se realiza una evaluación con los mismos algoritmos a la 
+          columna del DANE. 
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Evaluacion/Decision_Tree_Regressor.ipynb"> 
+          Decision_Tree_Regressor.ipynb</a>: </li>
+          En este archivo se realiza la optimización de los hiperparámetros para el algoritmo 
+          DecisionTreeRegressor con el objetivo de obtener mejores resultados que los que se lograron 
+          en Evaluacion_Algoritmos.ipynb. También se muestra el <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Evaluacion/tree.png"> 
+          árbol inicial resultante</a>.
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Evaluacion/Random_Forest_Regressor.ipynb"> 
+          Random_Forest_Regressor.ipynb</a>: </li>
+          En este archivo se realiza la optimización de los hiperparámetros para el algoritmo 
+          RandomForestRegressor con el objetivo de obtener mejores resultados que los que se lograron 
+          en Evaluacion_Algoritmos.ipynb.
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Evaluacion/Gradient_Boosting_Regressor.ipynb"> 
+          Gradient_Boosting_Regressor.ipynb</a>: </li>
+          En este archivo se realiza la optimización de los hiperparámetros para el algoritmo 
+          GradientBoostingRegressor con el objetivo de obtener mejores resultados que los que se lograron 
+          en Evaluacion_Algoritmos.ipynb.
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Evaluacion/Extra_Trees_Regressor.ipynb"> 
+          Extra_Trees_Regressor.ipynb</a>: </li>
+          En este archivo se realiza la optimización de los hiperparámetros para el algoritmo 
+          ExtraTreesRegressor con el objetivo de obtener mejores resultados que los que se lograron 
+          en Evaluacion_Algoritmos.ipynb.
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Evaluacion/AdaBoost_Regressor.ipynb"> 
+          AdaBoost_Regressor.ipynb</a>: </li>
+          En este archivo se realiza la optimización de los hiperparámetros para el algoritmo 
+          AdaBoostRegressor con el objetivo de obtener mejores resultados que los que se lograron 
+          en Evaluacion_Algoritmos.ipynb. 
       </ul>
