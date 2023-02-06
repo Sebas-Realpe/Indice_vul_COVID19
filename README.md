@@ -271,4 +271,8 @@
           En este archivo se realiza la optimización de los hiperparámetros para el algoritmo 
           AdaBoostRegressor con el objetivo de obtener mejores resultados que los que se lograron 
           en Evaluacion_Algoritmos.ipynb. 
+        <li> <a
+          href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Multidimensional%20Index/Evaluacion/Comparacion_datasets.ipynb"> 
+          Comparacion_datasets.ipynb</a>: </li>
+          En este archivo realiza la comparación de los valores predichos de incidencia de los modelos del DANE y el multidimensional contra los valores reales, usando los mejores modelos obtenidos para cada caso. 
       </ul>
