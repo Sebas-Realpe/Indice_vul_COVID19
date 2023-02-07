@@ -99,13 +99,13 @@
         no han sido publicados. Para el presente trabajo se utilizó el PIB a precios constantes, 
         buscando una periodicidad trimestral.
       <li> <a
-        href=""> 
+        href="https://earthengine.google.com/"> 
         Datos Climatológicos</a>: </li> 
         Google Earth Engine es un sitio web que tiene información de diversas variables, como 
         temperatura, o precipitación a través del mundo, según el satélite que se escoja.
       <li> <a
-        href=""> 
-        información de vacunación</a>: </li> 
+        href="https://app.powerbi.com/view?r=eyJrIjoiNThmZTJmZWYtOWFhMy00OGE1LWFiNDAtMTJmYjM0NDA5NGY2IiwidCI6ImJmYjdlMTNhLTdmYjctNDAxNi04MzBjLWQzNzE2ZThkZDhiOCJ9"> 
+        Información de vacunación</a>: </li> 
         El Ministerio de Salud, presentó un informe realizado por parte de Power BI, 
         en el cual se puede visualizar la curva de porcentaje de vacunación para cada uno de 
         los municipios de Colombia con una periodicidad mensual. 
@@ -131,8 +131,8 @@
         href="https://geoportal.dane.gov.co/visor-vulnerabilidad/"> 
         Índice de vulnerabilidad del DANE</a>: </li> 
         Este repositorio contiene los enlaces donde se logró acceder a los 
-      datos abiertos implementados para este proyecto, así como la guía de 
-      cómo estan divididas las carpetas y archivos.
+        datos abiertos implementados para este proyecto, así como la guía de 
+        cómo estan divididas las carpetas y archivos.
       <li> <a
         href="https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr"> 
         Datos de COVID-19</a>: </li> 
