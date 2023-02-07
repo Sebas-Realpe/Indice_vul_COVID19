@@ -48,8 +48,8 @@
           Este archivo utiliza el csv creado por Preproces_Deptos.ipynb para personas, realiza el 
           preprocesamiento de cada una de las variables y exporta un archivo csv.
         <li><a
-        href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Initial%20Index/Pre_Departamentos_filtros.ipynb"> 
-          Pre_Departamentos_filtros.ipynb</a>: </li>
+        href="https://github.com/Sebas-Realpe/Indice_vul_COVID19/blob/main/Initial%20Index/Pre_Departamentos_personas_filtros.ipynb"> 
+          Pre_Departamentos_personas_filtros.ipynb</a>: </li>
           En este archivo se realiza la división del dataset de personas debido a que por sus dimensiones se generaban algunos
           inconvenientes de recursos computacionales a la hora de realizar el preprocesamiento.
         <li><a
