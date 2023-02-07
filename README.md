@@ -95,9 +95,7 @@
         Producto Interno Bruto (PIB)</a>: </li>
         Estos datos dan una visibilidad más amplia de lo que aporta cada uno de los municipios 
         principales al país cada año. Considerando el periodo de tiempo relevante de la pandemia 
-        de Covid-19, se tuvo en cuenta los datos de los años 2019 y 2020. Los datos del 2021 aún 
-        no han sido publicados. Para el presente trabajo se utilizó el PIB a precios constantes, 
-        buscando una periodicidad trimestral.
+        de Covid-19, se tuvo en cuenta los datos de los años 2019, 2020 y 2021. Para el presente trabajo se utilizó el PIB a precios constantes, buscando una periodicidad trimestral.
       <li> <a
         href="https://earthengine.google.com/"> 
         Datos Climatológicos</a>: </li> 
